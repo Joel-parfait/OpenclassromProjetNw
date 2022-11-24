@@ -1,0 +1,18 @@
+h1
+{
+    color: maroon; /*couleur du titre*/
+}
+
+p
+{
+    color: rgb(26, 226, 176); /*couleur du paragraphe*/
+    opacity: 0.6;
+}
+
+body
+{
+    background-color: black;
+    color: white;
+    background-image: url("images/4183289.jpg");
+    background-attachment: fixed; /*fixer le fond*/
+}

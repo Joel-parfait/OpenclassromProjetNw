@@ -1,0 +1,28 @@
+p
+{
+    font-size: 14px; /*paragraphe de 14 pixels*/
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-style: italic;
+    font-weight: bold; /*mettre en gras un texte*/
+    text-align: justify;
+}
+
+@font-face /*ma police personnalise que j'ai cree*/
+{
+    font-family: 'Belguim Victory';
+    src: url('polices/Belgium\ Victory.otf');
+    src: url('polices/Belgium\ Victory.ttf');
+}
+
+h1 /*utilisation de ma police personnalise*/
+{
+    font-size: 40px; /*Titres de 40 pixels*/
+    font-family: 'Belguim Victory', Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.imageflottante
+{
+    float: left;
+}

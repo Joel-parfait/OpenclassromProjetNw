@@ -1,0 +1,16 @@
+h1
+{
+    width: 50%;
+    background-color: blueviolet;
+}
+
+p
+{
+    width: 350px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin: auto; /*Marge exterieure de 50px*/
+    overflow: auto;
+
+}
